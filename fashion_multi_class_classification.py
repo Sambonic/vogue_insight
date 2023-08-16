@@ -1,4 +1,3 @@
-# %%
 import tensorflow as tf
 from tensorflow.keras.datasets import fashion_mnist
 from tensorflow.keras.models import Sequential
